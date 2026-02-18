@@ -7,7 +7,7 @@
       "Id": "589e46cb-047d-4e8d-9662-32466723c90f"
     },
     "FileName": "InputGetKeyIssue.cs",
-    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/InputGetKeyIssue.cs",
+    "FilePath": "Assets/Scripts/InputGetKeyIssue.cs",
     "FileChanges": [
       {
         "LineNumber": 13,
@@ -25,7 +25,7 @@
       "Id": "589e46cb-047d-4e8d-9662-32466723c90f"
     },
     "FileName": "InputGetKeyIssue.cs",
-    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/InputGetKeyIssue.cs",
+    "FilePath": "Assets/Scripts/InputGetKeyIssue.cs",
     "FileChanges": [
       {
         "LineNumber": 18,
@@ -43,7 +43,7 @@
       "Id": "589e46cb-047d-4e8d-9662-32466723c90f"
     },
     "FileName": "InputGetKeyIssue.cs",
-    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/InputGetKeyIssue.cs",
+    "FilePath": "Assets/Scripts/InputGetKeyIssue.cs",
     "FileChanges": [
       {
         "LineNumber": 23,
@@ -61,7 +61,7 @@
       "Id": "589e46cb-047d-4e8d-9662-32466723c90f"
     },
     "FileName": "InputGetKeyIssue.cs",
-    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/InputGetKeyIssue.cs",
+    "FilePath": "Assets/Scripts/InputGetKeyIssue.cs",
     "FileChanges": [
       {
         "LineNumber": 28,
@@ -79,7 +79,7 @@
       "Id": "277c91b2-52da-441c-83ef-f52d167a370b"
     },
     "FileName": "CoalescingAssignmentIssue.cs",
-    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/CoalescingAssignmentIssue.cs",
+    "FilePath": "Assets/Scripts/CoalescingAssignmentIssue.cs",
     "FileChanges": [
       {
         "LineNumber": 27,
@@ -97,7 +97,7 @@
       "Id": "277c91b2-52da-441c-83ef-f52d167a370b"
     },
     "FileName": "CoalescingAssignmentIssue.cs",
-    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/CoalescingAssignmentIssue.cs",
+    "FilePath": "Assets/Scripts/CoalescingAssignmentIssue.cs",
     "FileChanges": [
       {
         "LineNumber": 17,
@@ -115,7 +115,7 @@
       "Id": "277c91b2-52da-441c-83ef-f52d167a370b"
     },
     "FileName": "CoalescingAssignmentIssue.cs",
-    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/CoalescingAssignmentIssue.cs",
+    "FilePath": "Assets/Scripts/CoalescingAssignmentIssue.cs",
     "FileChanges": [
       {
         "LineNumber": 19,
@@ -133,7 +133,7 @@
       "Id": "277c91b2-52da-441c-83ef-f52d167a370b"
     },
     "FileName": "CoalescingAssignmentIssue.cs",
-    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/CoalescingAssignmentIssue.cs",
+    "FilePath": "Assets/Scripts/CoalescingAssignmentIssue.cs",
     "FileChanges": [
       {
         "LineNumber": 21,
@@ -151,7 +151,7 @@
       "Id": "9e8f6842-ebb6-4352-a191-2b9beefe06a3"
     },
     "FileName": "NullPropagationIssue.cs",
-    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/NullPropagationIssue.cs",
+    "FilePath": "Assets/Scripts/NullPropagationIssue.cs",
     "FileChanges": [
       {
         "LineNumber": 18,
@@ -169,7 +169,7 @@
       "Id": "9e8f6842-ebb6-4352-a191-2b9beefe06a3"
     },
     "FileName": "NullPropagationIssue.cs",
-    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/NullPropagationIssue.cs",
+    "FilePath": "Assets/Scripts/NullPropagationIssue.cs",
     "FileChanges": [
       {
         "LineNumber": 21,
@@ -187,7 +187,7 @@
       "Id": "9e8f6842-ebb6-4352-a191-2b9beefe06a3"
     },
     "FileName": "NullPropagationIssue.cs",
-    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/NullPropagationIssue.cs",
+    "FilePath": "Assets/Scripts/NullPropagationIssue.cs",
     "FileChanges": [
       {
         "LineNumber": 24,
@@ -205,7 +205,7 @@
       "Id": "9e8f6842-ebb6-4352-a191-2b9beefe06a3"
     },
     "FileName": "NullPropagationIssue.cs",
-    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/NullPropagationIssue.cs",
+    "FilePath": "Assets/Scripts/NullPropagationIssue.cs",
     "FileChanges": [
       {
         "LineNumber": 24,
@@ -223,7 +223,7 @@
       "Id": "9e8f6842-ebb6-4352-a191-2b9beefe06a3"
     },
     "FileName": "NullPropagationIssue.cs",
-    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/NullPropagationIssue.cs",
+    "FilePath": "Assets/Scripts/NullPropagationIssue.cs",
     "FileChanges": [
       {
         "LineNumber": 27,
