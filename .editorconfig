@@ -1,0 +1,7 @@
+root = true
+
+[*.cs]
+# Enable Unity Roslyn analyzer rules as warnings
+dotnet_diagnostic.UNT0008.severity = warning   # Null propagation on Unity objects
+dotnet_diagnostic.UNT0023.severity = warning   # Coalescing assignment on Unity objects
+dotnet_diagnostic.UNT0025.severity = warning   # Input.GetKey overloads with KeyCode argument

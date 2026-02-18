@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>9</LangVersion>
+    <Nullable>enable</Nullable>
+    <!-- Treat analyzer diagnostics as warnings so build doesn't fail -->
+    <WarningsAsErrors></WarningsAsErrors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Reference UnityEngine from local Unity installation -->
+    <Reference Include="UnityEngine">
+      <HintPath>/Applications/Unity/Hub/Editor/6000.3.8f1/Unity.app/Contents/Resources/Scripting/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Roslyn analyzer for Unity-specific issues -->
+    <PackageReference Include="Microsoft.Unity.Analyzers" Version="1.20.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,40 @@
+name: Codacy Roslyn Analysis
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  codacy-roslyn:
+    name: Codacy Roslyn Analysis
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Download Codacy Roslyn
+        run: |
+          CODACY_ROSLYN_VERSION=0.2.13
+          wget -O codacy-roslyn https://github.com/codacy/codacy-roslyn/releases/download/${CODACY_ROSLYN_VERSION}/codacy-roslyn-${CODACY_ROSLYN_VERSION}
+          chmod +x codacy-roslyn
+      - name: Convert and Upload Results to Codacy
+        if: always()
+        env:
+          PROJECT_TOKEN: ${{ secrets.CODACY_PROJECT_TOKEN }}
+          COMMIT: ${{ github.event.pull_request.head.sha || github.sha }}
+        run: |
+          if [ -f "report/format-report.json" ]; then
+            cat report/format-report.json | \
+            ./codacy-roslyn | \
+            curl -XPOST -L -H "project-token: $PROJECT_TOKEN" \
+                -H "Content-type: application/json" -d @- \
+                "https://api.codacy.com/2.0/commit/$COMMIT/issuesRemoteResults"
+
+            curl -XPOST -L -H "project-token: $PROJECT_TOKEN" \
+                -H "Content-type: application/json" \
+                "https://api.codacy.com/2.0/commit/$COMMIT/resultsFinal"
+          else
+            echo "No report file found, skipping upload"
+          fi

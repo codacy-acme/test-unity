@@ -1,0 +1,236 @@
+[
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "771a7942-e1e3-43d6-b38b-cf6e6bc94ab8"
+      },
+      "Id": "589e46cb-047d-4e8d-9662-32466723c90f"
+    },
+    "FileName": "InputGetKeyIssue.cs",
+    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/InputGetKeyIssue.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 13,
+        "CharNumber": 13,
+        "DiagnosticId": "UNT0025",
+        "FormatDescription": "warning UNT0025: A method overload with KeyCode argument exists."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "771a7942-e1e3-43d6-b38b-cf6e6bc94ab8"
+      },
+      "Id": "589e46cb-047d-4e8d-9662-32466723c90f"
+    },
+    "FileName": "InputGetKeyIssue.cs",
+    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/InputGetKeyIssue.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 18,
+        "CharNumber": 13,
+        "DiagnosticId": "UNT0025",
+        "FormatDescription": "warning UNT0025: A method overload with KeyCode argument exists."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "771a7942-e1e3-43d6-b38b-cf6e6bc94ab8"
+      },
+      "Id": "589e46cb-047d-4e8d-9662-32466723c90f"
+    },
+    "FileName": "InputGetKeyIssue.cs",
+    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/InputGetKeyIssue.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 23,
+        "CharNumber": 13,
+        "DiagnosticId": "UNT0025",
+        "FormatDescription": "warning UNT0025: A method overload with KeyCode argument exists."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "771a7942-e1e3-43d6-b38b-cf6e6bc94ab8"
+      },
+      "Id": "589e46cb-047d-4e8d-9662-32466723c90f"
+    },
+    "FileName": "InputGetKeyIssue.cs",
+    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/InputGetKeyIssue.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 28,
+        "CharNumber": 13,
+        "DiagnosticId": "UNT0025",
+        "FormatDescription": "warning UNT0025: A method overload with KeyCode argument exists."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "771a7942-e1e3-43d6-b38b-cf6e6bc94ab8"
+      },
+      "Id": "277c91b2-52da-441c-83ef-f52d167a370b"
+    },
+    "FileName": "CoalescingAssignmentIssue.cs",
+    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/CoalescingAssignmentIssue.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 27,
+        "CharNumber": 9,
+        "DiagnosticId": "UNT0023",
+        "FormatDescription": "warning UNT0023: Unity objects should not use coalescing assignment."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "771a7942-e1e3-43d6-b38b-cf6e6bc94ab8"
+      },
+      "Id": "277c91b2-52da-441c-83ef-f52d167a370b"
+    },
+    "FileName": "CoalescingAssignmentIssue.cs",
+    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/CoalescingAssignmentIssue.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 17,
+        "CharNumber": 9,
+        "DiagnosticId": "UNT0023",
+        "FormatDescription": "warning UNT0023: Unity objects should not use coalescing assignment."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "771a7942-e1e3-43d6-b38b-cf6e6bc94ab8"
+      },
+      "Id": "277c91b2-52da-441c-83ef-f52d167a370b"
+    },
+    "FileName": "CoalescingAssignmentIssue.cs",
+    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/CoalescingAssignmentIssue.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 19,
+        "CharNumber": 9,
+        "DiagnosticId": "UNT0023",
+        "FormatDescription": "warning UNT0023: Unity objects should not use coalescing assignment."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "771a7942-e1e3-43d6-b38b-cf6e6bc94ab8"
+      },
+      "Id": "277c91b2-52da-441c-83ef-f52d167a370b"
+    },
+    "FileName": "CoalescingAssignmentIssue.cs",
+    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/CoalescingAssignmentIssue.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 21,
+        "CharNumber": 9,
+        "DiagnosticId": "UNT0023",
+        "FormatDescription": "warning UNT0023: Unity objects should not use coalescing assignment."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "771a7942-e1e3-43d6-b38b-cf6e6bc94ab8"
+      },
+      "Id": "9e8f6842-ebb6-4352-a191-2b9beefe06a3"
+    },
+    "FileName": "NullPropagationIssue.cs",
+    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/NullPropagationIssue.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 18,
+        "CharNumber": 9,
+        "DiagnosticId": "UNT0008",
+        "FormatDescription": "warning UNT0008: Unity objects should not use null propagation."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "771a7942-e1e3-43d6-b38b-cf6e6bc94ab8"
+      },
+      "Id": "9e8f6842-ebb6-4352-a191-2b9beefe06a3"
+    },
+    "FileName": "NullPropagationIssue.cs",
+    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/NullPropagationIssue.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 21,
+        "CharNumber": 24,
+        "DiagnosticId": "UNT0008",
+        "FormatDescription": "warning UNT0008: Unity objects should not use null propagation."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "771a7942-e1e3-43d6-b38b-cf6e6bc94ab8"
+      },
+      "Id": "9e8f6842-ebb6-4352-a191-2b9beefe06a3"
+    },
+    "FileName": "NullPropagationIssue.cs",
+    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/NullPropagationIssue.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 24,
+        "CharNumber": 24,
+        "DiagnosticId": "UNT0008",
+        "FormatDescription": "warning UNT0008: Unity objects should not use null propagation."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "771a7942-e1e3-43d6-b38b-cf6e6bc94ab8"
+      },
+      "Id": "9e8f6842-ebb6-4352-a191-2b9beefe06a3"
+    },
+    "FileName": "NullPropagationIssue.cs",
+    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/NullPropagationIssue.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 24,
+        "CharNumber": 32,
+        "DiagnosticId": "UNT0008",
+        "FormatDescription": "warning UNT0008: Unity objects should not use null propagation."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "771a7942-e1e3-43d6-b38b-cf6e6bc94ab8"
+      },
+      "Id": "9e8f6842-ebb6-4352-a191-2b9beefe06a3"
+    },
+    "FileName": "NullPropagationIssue.cs",
+    "FilePath": "/Users/heliorocha/dev/codacy/test-unity/Assets/Scripts/NullPropagationIssue.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 27,
+        "CharNumber": 9,
+        "DiagnosticId": "UNT0008",
+        "FormatDescription": "warning UNT0008: Unity objects should not use null propagation."
+      }
+    ]
+  }
+]
